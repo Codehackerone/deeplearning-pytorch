@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ImageCaptioner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NLU-World-Bank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../NeuralStyleTransfer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../UNET-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../nlp-pytorch" vcs="Git" />
   </component>
 </project>

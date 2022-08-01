@@ -4,5 +4,11 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ml-paper-implementations" />
+    <orderEntry type="module" module-name="nlp-pytorch" />
+    <orderEntry type="module" module-name="ImageCaptioner" />
+    <orderEntry type="module" module-name="NeuralStyleTransfer" />
+    <orderEntry type="module" module-name="UNET-pytorch" />
+    <orderEntry type="module" module-name="NLU-World-Bank" />
   </component>
 </module>

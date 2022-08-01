@@ -1,4 +1,4 @@
-# flickr8k and captions
+# Flickr8k and captions
 
 ## captions.txt -> img and caption
 
