@@ -10,5 +10,6 @@
     <orderEntry type="module" module-name="NeuralStyleTransfer" />
     <orderEntry type="module" module-name="UNET-pytorch" />
     <orderEntry type="module" module-name="NLU-World-Bank" />
+    <orderEntry type="module" module-name="gsoc-projects" />
   </component>
 </module>

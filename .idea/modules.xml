@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/../NeuralStyleTransfer/.idea/NeuralStyleTransfer.iml" filepath="$PROJECT_DIR$/../NeuralStyleTransfer/.idea/NeuralStyleTransfer.iml" />
       <module fileurl="file://$PROJECT_DIR$/../UNET-pytorch/.idea/UNET-pytorch.iml" filepath="$PROJECT_DIR$/../UNET-pytorch/.idea/UNET-pytorch.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/deeplearning-pytorch.iml" filepath="$PROJECT_DIR$/.idea/deeplearning-pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gsoc-projects/.idea/gsoc-projects.iml" filepath="$PROJECT_DIR$/../gsoc-projects/.idea/gsoc-projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ml-paper-implementations/.idea/ml-paper-implementations.iml" filepath="$PROJECT_DIR$/../ml-paper-implementations/.idea/ml-paper-implementations.iml" />
       <module fileurl="file://$PROJECT_DIR$/../nlp-pytorch/.idea/nlp-pytorch.iml" filepath="$PROJECT_DIR$/../nlp-pytorch/.idea/nlp-pytorch.iml" />
     </modules>
